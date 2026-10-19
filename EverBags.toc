@@ -3,8 +3,8 @@
 ## Notes: One-window, categorized bags and bank for WoW: Forever.
 ## Author: Seth Sullivan
 ## Version: @project-version@
-## X-Website: https://github.com/Ctrl-Z-Dev/EverBags
-## X-Author-Team: Ctrl+Z Dev
+## X-Website: https://github.com/Ctrl-Z-Creations/EverBags
+## X-Author-Team: Ctrl+Z Creations
 ## SavedVariables: EverBagsDB
 
 Core.lua
