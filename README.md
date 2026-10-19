@@ -2,7 +2,7 @@
 
 One-window, categorized bags and bank for **World of Warcraft: Forever**.
 
-By [Ctrl+Z Dev](https://github.com/Ctrl-Z-Dev).
+By [Ctrl+Z Creations](https://github.com/Ctrl-Z-Creations).
 
 ## Install
 
