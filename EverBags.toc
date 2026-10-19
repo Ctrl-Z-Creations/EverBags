@@ -1,0 +1,20 @@
+## Interface: 16001
+## Title: EverBags
+## Notes: One-window, categorized bags and bank for WoW: Forever.
+## Author: Seth Sullivan
+## Version: @project-version@
+## X-Website: https://github.com/Ctrl-Z-Dev/EverBags
+## X-Author-Team: Ctrl+Z Dev
+## SavedVariables: EverBagsDB
+
+Core.lua
+Snapshot.lua
+Farm.lua
+Search.lua
+Stack.lua
+Value.lua
+Deposit.lua
+Window.lua
+Bags.lua
+Bank.lua
+Options.lua
