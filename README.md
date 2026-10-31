@@ -49,3 +49,7 @@ Get it from CurseForge or Wago, or download the zip from [Releases](https://gith
 ## Feedback
 
 Found a bug or have an idea? Open an [issue](https://github.com/Ctrl-Z-Creations/EverBags/issues).
+
+## Support
+
+EverBags is free and always will be. If it's made your game a little better, you can [buy me a coffee on Ko-fi](https://ko-fi.com/ctrlzcreations). It helps keep the updates coming.
